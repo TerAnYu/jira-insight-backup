@@ -1,4 +1,5 @@
 #!/bin/sh
+# version: 20190611
 # Writer: TerAnYu
 # need: command-line JSON processor
 # wget https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64 -O jq && chmod +x jq
