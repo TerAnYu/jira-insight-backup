@@ -1,4 +1,8 @@
 #!/bin/sh
+# Writer: TerAnYu
+# need: command-line JSON processor
+# wget https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64 -O jq && chmod +x jq
+# curl with libssl
 
 url=http://127.0.0.1:8080
 listreq=/rest/insight/1.0/objectschema/list
