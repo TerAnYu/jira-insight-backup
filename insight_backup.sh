@@ -1,7 +1,7 @@
 #!/bin/sh
-# version: 20190611
+# version: 20190617
 # Writer: TerAnYu
-# need: command-line JSON processor
+# need: command-line JSON processor - https://stedolan.github.io/jq/
 # wget https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64 -O jq && chmod +x jq
 # curl with libssl
 
